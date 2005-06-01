@@ -2,7 +2,7 @@
 %define		_theme		revolution
 
 Summary:	The Revolution KDM theme
-Summary(pl):	Motywm KDM Revolution
+Summary(pl):	Motyw KDM Revolution
 Name:		kdm-theme-%{_theme}
 Version:	01
 Release:	1
@@ -17,10 +17,10 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-The Revolution of KDM Theme
+The Revolution of KDM Theme.
 
 %description -l pl
-Motyw KDM Revolution
+Motyw KDM Revolution.
 
 %prep
 %setup -q -c
