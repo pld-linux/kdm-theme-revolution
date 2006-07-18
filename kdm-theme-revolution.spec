@@ -12,7 +12,7 @@ Source0:	http://www.kde-look.org/content/files/23531-%{_theme}_kdm_theme.tar.bz2
 # Source0-md5:	00ec01fc0e4ec5b4b44793b2a03ffa7b
 URL:		http://www.kde-look.org/content/show.php?content=23531
 Requires:	kdebase-desktop >= 9:3.2.0
-Requires:	kdm
+Requires:	kdm >= 9:3.4.0
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
