@@ -2,7 +2,7 @@
 %define		_theme		revolution
 
 Summary:	The Revolution KDM theme
-Summary(pl.UTF-8):   Motyw KDM Revolution
+Summary(pl.UTF-8):	Motyw KDM Revolution
 Name:		kdm-theme-%{_theme}
 Version:	01
 Release:	2
